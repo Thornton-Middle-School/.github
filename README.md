@@ -11,4 +11,4 @@ This is an organization for students in Thornton Middle School to make friends, 
 2. Messages here cannot be taken to start bullying in-person (e.g. at school) or online (e.g. a group chat).
 3. You cannot use projects in this organization to circumvent school policies. Nor can a project's purpose be to do so. One example of such violation is a project that lets you bypass payments, such as new IDs or socials.
 
-**Please report any violation of these rules ASAP to a trustable member of this organization and we will try to get things sorted. Report to someone at the school only if things escalate too far and out of control.**
+**Please report any violation of these rules ASAP to a trustable member of this organization and we will try to get things sorted. Report to school staff only if things escalate too far and out of control.**
