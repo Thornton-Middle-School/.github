@@ -10,5 +10,6 @@ This is an organization for students in Thornton Middle School to make friends, 
 1. No cyberbullying in code comments, issue pages, pr requests, conversations, discussions, and any other way to communicate.
 2. Messages here cannot be taken to start bullying in-person (e.g. at school) or online (e.g. a group chat).
 3. You cannot use projects in this organization to circumvent school policies. Nor can a project's purpose be to do so. One example of such violation is a project that lets you bypass payments, such as new IDs or socials.
+4. Nothing is stopping you from doing projects individually or collaborating with another person in this organization for learning purposes, etc. However, if the project is owned by this organization (i.e. in the Repositories section of this organization), it *must* be helpful to students in Thornton, and not have a popular alternative (e.g. online websites).
 
 **Please report any violation of these rules ASAP to a trustable member of this organization and we will try to get things sorted. Report to school staff only if things escalate too far and out of control.**
